@@ -1,0 +1,46 @@
+.form__lableText {
+  width: 100%;
+  max-width: 150px;
+  display: inline-block;
+}
+
+.form__field {
+  background-color: #fff;
+  padding: 10px;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 5%;
+}
+
+.form__button {
+  background-color: hsl(141, 72%, 35%);
+  color: #fff;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+  border: none;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 13px 12px 25px -4px rgba(0, 0, 0, 1);
+}
+.form__button:hover {
+  background-color: hsl(141, 72%, 50%);
+}
+
+.form__button:active {
+  background-color: hsl(141, 72%, 75%);
+}
+.form__fieldset {
+  border: 1px solid orange;
+  padding: 20px;
+  border-radius: 5ps;
+  margin: 20px 0;
+  background-color: rgb(64, 166, 213);
+  box-shadow: 13px 12px 25px -4px rgba(0, 0, 0, 1);
+}
+.form__legend {
+  background-color: hsl(141, 72%, 35%);
+  color: #fff;
+  box-shadow: 13px 12px 25px -4px rgba(0, 0, 0, 1);
+  border: none;
+  padding: 20px;
+  text-align: center;
+}
