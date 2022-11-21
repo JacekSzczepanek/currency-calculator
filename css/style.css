@@ -12,4 +12,5 @@ html {
   background-color: #9be3ff;
   color: white;
   background-image: url("../images/backgroundimage.jpg");
+  background-size: cover;
 }
