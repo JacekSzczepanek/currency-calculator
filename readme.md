@@ -11,6 +11,8 @@ I used technologies and conventions for the project:
 
 ## Link:
 
+
 https://jacekszczepanek.github.io/currency-calculator/
 
 ## Screenshot:
+![screen](https://raw.githubusercontent.com/JacekSzczepanek/currency-calculator/main/screenshots/screen.jpg)
